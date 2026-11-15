@@ -38,14 +38,14 @@ Em comparação com a ferramenta original do Expert, foram realizadas as seguint
 
 8. Demonstração da ferramenta
 Abaixo estão exemplos da ferramenta preenchida, utilizando a mesma simulação em diferentes perfis de investimento.
-Perfil Conservador
-<img width="655" height="952" alt="image" src="https://github.com/user-attachments/assets/beb8bf4c-31ca-4fdb-8e7c-0c6e525211ef" />
+### Perfil Conservador
+![Simulação do perfil conservador](prints/perfil_conservador.png)
 
-Perfil Moderado
-<img width="652" height="955" alt="image" src="https://github.com/user-attachments/assets/6f08f01f-75b1-4daf-adf6-8334aacc618d" />
+### Perfil Moderado
+![Simulação do perfil moderado](prints/perfil_moderado.png)
 
-Perfil Agressivo:
-<img width="652" height="951" alt="image" src="https://github.com/user-attachments/assets/c7f425b5-f4ee-4a97-b570-fae2442640e0" />
+### Perfil Agressivo:
+![Simulação do perfil arrojado](prints/perfil_agressivo.png)
 
 9. Como utilizar
 Abra a planilha no Excel.
