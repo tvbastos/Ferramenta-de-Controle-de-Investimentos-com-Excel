@@ -48,9 +48,9 @@ Abaixo estão exemplos da ferramenta preenchida, utilizando a mesma simulação 
 ![Simulação de perfil agressivo](perfil_agressivo.png).
 
 ## 8. Como utilizar:
-I. Abra a planilha no Excel.
-II. Preencha os campos solicitados (Salário, Rendimento Carteira, Quanto investir por mês; Por quantos anos).
-III. Selecione o perfil desejado (Conservador, Moderado ou Agressivo).
-IV. Consulte os resultados apresentados pela ferramenta.
+#### I. Abra a planilha no Excel.
+#### II. Preencha os campos solicitados (Salário, Rendimento Carteira, Quanto investir por mês; Por quantos anos).
+#### III. Selecione o perfil desejado (Conservador, Moderado ou Agressivo).
+#### IV. Consulte os resultados apresentados pela ferramenta.
 
 A planilha foi desenvolvida para facilitar o planejamento financeiro sem exigir conhecimentos avançados de Excel.
